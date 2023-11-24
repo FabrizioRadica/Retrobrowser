@@ -1,6 +1,9 @@
 # Retrobrowser
 An initial (old) version of a Wordpress plugin for viewing sites on the Amiga.
 
+![immagine](https://github.com/FabrizioRadica/Retrobrowser/assets/1652242/60f04ddc-25a4-46a8-ba2e-372dbdf0e362)
+
+
 You can freely modify, distribute, improve or take part of it, quoting the author (me) if possible.
 Non-optimised version of a project started in 2016 to make all Wodpress sites compatible and fully usable on the amiga platform through IBrowse or Aweb.
 
